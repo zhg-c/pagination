@@ -1,2 +1,1 @@
-# pagination
-paging data display.
+# paging
